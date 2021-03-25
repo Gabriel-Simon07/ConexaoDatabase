@@ -11,9 +11,9 @@ using System.Windows.Forms;
 
 namespace ConexaoBD
 {
-    public partial class Form1 : Form
+    public partial class Cadastro : Form
     {
-        public Form1()
+        public Cadastro()
         {
             InitializeComponent();
         }
